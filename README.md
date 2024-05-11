@@ -1,2 +1,7 @@
-# Seal
- Exercício Final do curso de css3 da OBC
+ Seal World 
+ 
+ Artigo sobre focas.
+
+ Tecnologias Utilizadas
+* HTML
+* CSS
